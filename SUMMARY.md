@@ -43,6 +43,10 @@
   * [25-27组实验数据](shi-yan-shu-ju/25-27zu-shi-yan-shu-ju.md)
 * [数据汇总](shu-ju-hui-zong.md)
 
+## 实验分析
+
+* [实验分析](shi-yan-fen-xi/shi-yan-fen-xi.md)
+
 ## 参考文献
 
 * [参考文献](参考文献.md)
