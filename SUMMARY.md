@@ -46,7 +46,7 @@
 ## 实验分析
 
 * [实验分析](shi-yan-fen-xi/shi-yan-fen-xi.md)
-  * 粉煤灰取代水泥比例的影响
+  * [粉煤灰取代水泥比例的影响](shi-yan-fen-xi/shi-yan-fen-xi/fen-mei-hui-qu-dai-shui-ni-bi-li-de-ying-xiang.md)
   * pva体积含量    的影响
   * [水胶比的影响](shi-yan-fen-xi/shi-yan-fen-xi/shui-xiao-bi-de-ying-xiang.md)
   * [减水剂占胶体比例的影响](shi-yan-fen-xi/shi-yan-fen-xi/jian-shui-ji-zhan-xiao-ti-bi-li-de-ying-xiang.md)
